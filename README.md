@@ -1,5 +1,5 @@
 # PaperPass
-old school strong password generator
+strong password generator and technically old school password manager.
 
 
 # name
